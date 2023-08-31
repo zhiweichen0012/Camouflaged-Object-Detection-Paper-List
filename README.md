@@ -9,6 +9,7 @@
 | Weakly Supervised Camouflaged Object Detection with Scribble Annotations    |    AAAI     |                                                            [Paper](https://arxiv.org/abs/2207.14083)                                                             | [CODE](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations) |
 | High-resolution Iterative Feedback Network for Camouflaged Object Detection |    AAAI     |                                                            [Paper](https://arxiv.org/pdf/2203.11624)                                                             |                                 [CODE](https://github.com/HUuxiaobin/HitNet)                                 |
 | MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection    |    WACV     | [Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Zheng_MFFN_Multi-View_Feature_Fusion_Network_for_Camouflaged_Object_Detection_WACV_2023_paper.pdf) |                                [CODE](https://github.com/dwardzheng/MFFN_COD)                                |
+| Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction    |    CVPR     | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/He_Camouflaged_Object_Detection_With_Feature_Decomposition_and_Edge_Reconstruction_CVPR_2023_paper.pdf) |                                [CODE]([https://github.com/dwardzheng/MFFN_COD](https://github.com/ChunmingHe/FEDER))                                |
 
 ## 2022
 
